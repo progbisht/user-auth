@@ -70,7 +70,7 @@ Now you can access the api endponts using postman (or similar tools) in order to
 ### Directory Structure
 
     ```
-    ASSIGNMENT/
+    user-auth/
     │               
     │── public/uploads
     └── src/
