@@ -41,9 +41,9 @@ A step-by-step guide on how to get the project running on a local machine.
 
 1. Clone the git repo
 2. Open the folder with any modern code editor.
-3. Change the directory to ASSIGNMENT
+3. Change the directory to user-auth
    ```
-   cd ASSIGNMENT
+   cd user-auth
    ```
 4. Install the dependencies
     ```
